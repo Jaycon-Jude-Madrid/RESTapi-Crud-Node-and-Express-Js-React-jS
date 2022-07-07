@@ -1,0 +1,19 @@
+.View-container {
+  width: 500px;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.View-container h5 {
+  font-size: 15px;
+}
+
+.View-header {
+  background-color: #4267b2;
+  width: 500px;
+  margin: auto;
+  color: white;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}

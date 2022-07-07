@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 auto;
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+.header a {
+  text-decoration: none;
+  color: black;
+}
+.logo {
+  font-size: 20px;
+}
+
+.header-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.header-right a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+.active {
+  color: #4267b2;
+  padding: 5px;
+  background-color: aliceblue;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
